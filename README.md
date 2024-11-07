@@ -1,4 +1,5 @@
 # KURS: Docker-for-beginners
+
 ## Moduł 1- Docker Introduction
 #### Test:
 ![image](https://github.com/user-attachments/assets/dd7ddc6a-84a4-429b-a033-15221bc810e3)
@@ -6,6 +7,7 @@
 ![image](https://github.com/user-attachments/assets/0148c791-be57-421e-b1c7-99c6a346083d)
 ![image](https://github.com/user-attachments/assets/08b0eba8-e051-4c1f-9908-2e0be38490ee)
 ![image](https://github.com/user-attachments/assets/702a9c9e-2289-4f73-bd43-7c2cf9c31b08)
+
 ## Moduł 2- Basic Docker Commands
 ### Hands-on Lab: Basic Docker Commands
 #### Test: 
@@ -15,5 +17,16 @@
 ![image](https://github.com/user-attachments/assets/cdcf1dc2-7643-41e7-a4f9-ccd6668c1871)
 ![image](https://github.com/user-attachments/assets/3c479a9c-3eae-4496-848c-3a37a2e8e877)
 ![image](https://github.com/user-attachments/assets/65b9b1bf-f9ea-4757-a17c-ac936efeec3e)
-
 ![image](https://github.com/user-attachments/assets/384e4c4c-ea7f-43d5-87b0-4437a035c729)
+
+## Moduł 3- Docker run
+### Hands-on Lab: Docker Run Commands
+![image](https://github.com/user-attachments/assets/47f31a18-79c2-430f-9139-9bf31e96c2bc)
+#### Test: 
+![image](https://github.com/user-attachments/assets/5f7d12a5-eb70-4a08-a9e3-d2bd098c24de)
+![image](https://github.com/user-attachments/assets/7e2b023b-6bee-43ad-aa37-c1473c1422ce)
+![image](https://github.com/user-attachments/assets/1369706d-4543-4db5-8122-4c980ce81262)
+![image](https://github.com/user-attachments/assets/51e59d47-dd50-4947-8470-c099217a4838)
+![image](https://github.com/user-attachments/assets/1ddbd88a-0da4-4f6c-8c1e-8ce09568d0e6)
+
+![image](https://github.com/user-attachments/assets/bc6174c8-1668-4592-9fff-0a9401581f9c)
