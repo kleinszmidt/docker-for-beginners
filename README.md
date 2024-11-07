@@ -28,5 +28,10 @@
 ![image](https://github.com/user-attachments/assets/1369706d-4543-4db5-8122-4c980ce81262)
 ![image](https://github.com/user-attachments/assets/51e59d47-dd50-4947-8470-c099217a4838)
 ![image](https://github.com/user-attachments/assets/1ddbd88a-0da4-4f6c-8c1e-8ce09568d0e6)
-
 ![image](https://github.com/user-attachments/assets/bc6174c8-1668-4592-9fff-0a9401581f9c)
+
+## Moduł 4- Docker Images
+### Hands-on Lab: Docker Images
+![image](https://github.com/user-attachments/assets/b2873f97-f29b-424d-b60d-4f7f64686d13)
+### Hands-on Lab: Environment Variables
+![image](https://github.com/user-attachments/assets/27564f6a-9603-489c-9d0a-f323eb47cc2e)
