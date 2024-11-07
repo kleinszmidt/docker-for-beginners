@@ -35,3 +35,16 @@
 ![image](https://github.com/user-attachments/assets/b2873f97-f29b-424d-b60d-4f7f64686d13)
 ### Hands-on Lab: Environment Variables
 ![image](https://github.com/user-attachments/assets/27564f6a-9603-489c-9d0a-f323eb47cc2e)
+### Hands-on Lab: Command vs Entrypoint
+![image](https://github.com/user-attachments/assets/db89fd4c-2b3f-4970-88ba-1c95f4cbed16)
+#### Test:
+![image](https://github.com/user-attachments/assets/cc9a562c-dda3-4dfe-bec7-fc014079cd20)
+![image](https://github.com/user-attachments/assets/bab06068-d68c-4a15-81b5-39dfafbc867b)
+![image](https://github.com/user-attachments/assets/d4d8eeff-6dad-4341-8e5e-483be35d6fa9)
+![image](https://github.com/user-attachments/assets/a5eaa047-b8f9-48c7-a01a-f001493127cc)
+![image](https://github.com/user-attachments/assets/2d8df28d-6fad-45c3-9af4-b6022103ef1a)
+![image](https://github.com/user-attachments/assets/1bab9a63-46b2-4628-a0b0-c48e7a83ab4f)
+
+## Moduł 5- Docker Compose
+### Hands-on Lab: Docker Compose
+
