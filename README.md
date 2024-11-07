@@ -67,3 +67,26 @@
 ![image](https://github.com/user-attachments/assets/d5c68f2a-5601-4a5e-9b2b-b883d01a6272)
 ![image](https://github.com/user-attachments/assets/3ef53e63-57e6-4189-ab4e-8370360ef152)
 
+### Moduł 7- Docker Network
+### Hands-on Lab: Docker Networking
+![image](https://github.com/user-attachments/assets/3a94da2e-64a0-44c2-99c3-392af047551e)
+### Hands-on Lab: Docker Registry
+![image](https://github.com/user-attachments/assets/042687ca-0134-4f36-ae8f-20fc96356117)
+#### Test:
+![image](https://github.com/user-attachments/assets/ee0c6444-dad9-4d7b-a8a0-e05bc100e06c)
+![image](https://github.com/user-attachments/assets/705a9ff2-7826-4568-935d-f7e19481678b)
+![image](https://github.com/user-attachments/assets/ba524332-e35e-4035-9233-7919a3524b5b)
+![image](https://github.com/user-attachments/assets/965fb1d7-ae9c-44d1-9765-1c67c7d04090)
+![image](https://github.com/user-attachments/assets/cb1bf8bf-2fd6-41a9-9131-08ef76724c5d)
+![image](https://github.com/user-attachments/assets/f4889561-5432-4104-9d96-92d2d54d5a13
+
+### Moduł 9- Container Orchestration
+#### Test:
+![image](https://github.com/user-attachments/assets/a390f56d-2b09-4b54-823f-0390b552d7da)
+![image](https://github.com/user-attachments/assets/a1acdafd-4156-474b-8721-0cbda7a952e7)
+![image](https://github.com/user-attachments/assets/01a29cbb-4e40-4cdf-b4c5-ffb8bd67f08f)
+![image](https://github.com/user-attachments/assets/34ca6f43-5817-41d2-8f01-26ad3ecd3482)
+![image](https://github.com/user-attachments/assets/6f0b9cf1-5bd0-4b50-9f95-2040da301481)
+![image](https://github.com/user-attachments/assets/0a60a91d-63e1-472d-ac99-27c94f80c5d7)
+![image](https://github.com/user-attachments/assets/947ebee2-36b0-46e5-a454-50799d04fde1)
+![image](https://github.com/user-attachments/assets/995650c5-36bd-4c69-a69e-5722b11e73f4)
