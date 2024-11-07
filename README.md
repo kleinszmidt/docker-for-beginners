@@ -57,4 +57,13 @@
 ![image](https://github.com/user-attachments/assets/9d864f5a-c957-4e52-8374-1d7ee5d437fd)
 
 ## Moduł 6- Docker Engine
-### 
+### Hands-on Lab: Docker Storage
+![image](https://github.com/user-attachments/assets/c664a609-e0df-46f5-8d39-f34baa055e3a)
+#### Test:
+![image](https://github.com/user-attachments/assets/a9122f26-1a3d-44da-a4bf-04c140bf4b0d)
+![image](https://github.com/user-attachments/assets/468c23f1-4fba-4921-9d13-689c6c3fa726)
+![image](https://github.com/user-attachments/assets/dc08eac8-6eb2-4fe5-a2bd-1bfbfb834d43)
+![image](https://github.com/user-attachments/assets/cbccadf3-bab9-4bcb-83f1-7f71e2da772f)
+![image](https://github.com/user-attachments/assets/d5c68f2a-5601-4a5e-9b2b-b883d01a6272)
+![image](https://github.com/user-attachments/assets/3ef53e63-57e6-4189-ab4e-8370360ef152)
+
