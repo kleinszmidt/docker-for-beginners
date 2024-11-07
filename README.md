@@ -78,7 +78,7 @@
 ![image](https://github.com/user-attachments/assets/ba524332-e35e-4035-9233-7919a3524b5b)
 ![image](https://github.com/user-attachments/assets/965fb1d7-ae9c-44d1-9765-1c67c7d04090)
 ![image](https://github.com/user-attachments/assets/cb1bf8bf-2fd6-41a9-9131-08ef76724c5d)
-![image](https://github.com/user-attachments/assets/f4889561-5432-4104-9d96-92d2d54d5a13
+![image](https://github.com/user-attachments/assets/f4889561-5432-4104-9d96-92d2d54d5a13)
 
 ### Moduł 9- Container Orchestration
 #### Test:
