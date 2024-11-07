@@ -47,4 +47,14 @@
 
 ## Moduł 5- Docker Compose
 ### Hands-on Lab: Docker Compose
+![image](https://github.com/user-attachments/assets/1661e8c6-f2e7-45ca-8cfc-aa73f1a7663a)
+#### Test: 
+![image](https://github.com/user-attachments/assets/a533a8e6-e7c7-4b4a-b153-f75d6b08a90d)
+![image](https://github.com/user-attachments/assets/9c893ce4-c8fd-4353-a9b8-f43657546a88)
+![image](https://github.com/user-attachments/assets/dfc7e78a-a48f-4837-8503-128197a95ad3)
+![image](https://github.com/user-attachments/assets/bc0811d3-dde1-487e-9de6-cbbf5058805d)
+![image](https://github.com/user-attachments/assets/f486dc57-f1df-4c38-bfae-ac71a4dd46b0)
+![image](https://github.com/user-attachments/assets/9d864f5a-c957-4e52-8374-1d7ee5d437fd)
 
+## Moduł 6- Docker Engine
+### 
